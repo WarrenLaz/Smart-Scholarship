@@ -1,0 +1,10 @@
+/Users/warren_lazarraga/Programming_projects/425proj/server/target/debug/deps/libhttparse-fc74ce77e96ab4e6.rmeta: /Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs /Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs /Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs /Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs /Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs /Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs
+
+/Users/warren_lazarraga/Programming_projects/425proj/server/target/debug/deps/httparse-fc74ce77e96ab4e6.d: /Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs /Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs /Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs /Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs /Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs /Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs
+
+/Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs:
+/Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs:
+/Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs:
+/Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs:
+/Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs:
+/Users/warren_lazarraga/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs:
